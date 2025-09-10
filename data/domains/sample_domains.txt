@@ -1,0 +1,37 @@
+# Lines starting with # are ignored
+# Format: one domain per line
+
+# News and media sites
+cnn.com
+bbc.com
+nytimes.com
+theguardian.com
+
+# E-commerce sites
+amazon.com
+ebay.com
+etsy.com
+
+# Technology sites
+github.com
+stackoverflow.com
+techcrunch.com
+
+# Social media and entertainment
+youtube.com
+instagram.com
+twitter.com
+
+# Educational and reference
+wikipedia.org
+coursera.org
+khanacademy.org
+
+# Travel and lifestyle
+booking.com
+airbnb.com
+tripadvisor.com
+
+# Add your own domains below:
+# example.com
+# test-site.org

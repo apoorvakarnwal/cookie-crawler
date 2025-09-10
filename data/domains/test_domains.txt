@@ -1,0 +1,44 @@
+# Enhanced test domain list for comprehensive testing
+# This list includes websites known to use various CMPs and cookie practices
+
+# Major news sites (likely to have CMPs)
+cnn.com
+bbc.com
+nytimes.com
+theguardian.com
+techcrunch.com
+
+# E-commerce sites (complex cookie usage)
+amazon.com
+ebay.com
+etsy.com
+shopify.com
+
+# Technology/Developer sites (mixed cookie practices)
+github.com
+stackoverflow.com
+mozilla.org
+w3.org
+
+# Educational sites (typically simpler)
+wikipedia.org
+coursera.org
+khanacademy.org
+
+# Entertainment/Social (heavy cookie usage)
+youtube.com
+reddit.com
+
+# Travel sites (known for cookies)
+booking.com
+expedia.com
+
+# Financial services (strict compliance)
+paypal.com
+
+# Privacy-focused sites (minimal cookies)
+duckduckgo.com
+
+# Test sites for debugging
+httpbin.org
+example.com

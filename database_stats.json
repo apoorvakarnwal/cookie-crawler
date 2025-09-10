@@ -1,0 +1,12 @@
+{
+  "total_crawls": 1,
+  "successful_crawls": 1,
+  "failed_crawls": 0,
+  "cmp_distribution": {
+    "unknown": 1
+  },
+  "total_cookies": 0,
+  "unique_cookies": 0,
+  "consent_data_entries": 0,
+  "domains_with_consent_data": 0
+}

@@ -1,0 +1,116 @@
+# Consent Crawler - Git Ignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Crawler output data
+data/results/
+*.sqlite
+*.db
+
+# Large data files
+*.pkl
+*.pickle
+*.json.gz
+*.tar.gz
+*.zip
+
+# Log files
+*.log
+*.out
+*.err
+
+# Screenshots
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Backup files
+*.bak
+*.backup
+
+# Configuration with secrets
+config/secrets.py
+config/api_keys.json
+
+# Browser profiles content (keep structure, ignore browser data)
+config/browser_profiles/*/cookies.sqlite*
+config/browser_profiles/*/sessionstore*
+config/browser_profiles/*/places.sqlite*
+config/browser_profiles/*/formhistory.sqlite*
+
+# Documentation build
+docs/_build/
+docs/build/
+
+# Examples that generate large data
+examples/output/
+examples/results/
+examples/*.sqlite
